@@ -12,4 +12,3 @@ public class UserController {
     public String home(Model model) {
         return "user.jsp";
     }
-}
